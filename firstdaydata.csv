@@ -1,0 +1,41 @@
+country,continent,lifeExp,,country,continent,gdpPercap
+Nicaragua,Americas,72.9,,Iran,Asia,11606
+Jamaica,Americas,72.6,,Thailand,Asia,7458
+Puerto Rico,Americas,78.7,,Pakistan,Asia,2606
+Dominican Republic,Americas,72.2,,"Korea, Dem. Rep.",Asia,1593
+Brazil,Americas,72.4,,Singapore,Asia,47143
+Ecuador,Americas,75,,Taiwan,Asia,28718
+Cuba,Americas,78.3,,Jordan,Asia,4519
+Chile,Americas,78.6,,West Bank and Gaza,Asia,3025
+Canada,Americas,80.7,,Kuwait,Asia,47307
+Haiti,Americas,60.9,,"Yemen, Rep.",Asia,2281
+Trinidad and Tobago,Americas,69.8,,Iraq,Asia,4471
+Peru,Americas,71.4,,Bahrain,Asia,29796
+Venezuela,Americas,73.7,,India,Asia,2452
+Colombia,Americas,72.9,,"Hong Kong, China",Asia,39725
+Honduras,Americas,70.2,,Israel,Asia,25523
+Mexico,Americas,76.2,,Zimbabwe,Africa,470
+Costa Rica,Americas,78.8,,Rwanda,Africa,863
+Argentina,Americas,75.3,,Nigeria,Africa,2014
+Paraguay,Americas,71.8,,"Congo, Dem. Rep.",Africa,278
+Poland,Europe,75.6,,Libya,Africa,12057
+Netherlands,Europe,79.8,,Algeria,Africa,6223
+Montenegro,Europe,74.5,,Lesotho,Africa,1569
+Czech Republic,Europe,76.5,,Kenya,Africa,1463
+Spain,Europe,80.9,,Mauritania,Africa,1803
+Finland,Europe,79.3,,Eritrea,Africa,641
+Switzerland,Europe,81.7,,Madagascar,Africa,1045
+Romania,Europe,72.5,,Guinea-Bissau,Africa,579
+Slovak Republic,Europe,74.7,,Equatorial Guinea,Africa,12154
+Sweden,Europe,80.9,,"Congo, Rep.",Africa,3633
+Croatia,Europe,75.7,,Botswana,Africa,12570
+Hungary,Europe,73.3,,Mozambique,Africa,824
+France,Europe,80.7,,Morocco,Africa,3820
+Slovenia,Europe,77.9,,Namibia,Africa,4811
+Belgium,Europe,79.4,,Gabon,Africa,13206
+Iceland,Europe,81.8,,Ethiopia,Africa,691
+Serbia,Europe,74,,Central African Republic,Africa,706
+Bosnia and Herzegovina,Europe,74.9,,Burundi,Africa,430
+Turkey,Europe,71.8,,Mauritius,Africa,10957
+Austria,Europe,79.8,,Togo,Africa,883
+Portugal,Europe,78.1,,Zambia,Africa,1271
